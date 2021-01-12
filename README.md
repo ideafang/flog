@@ -1,2 +1,2 @@
-# Lil'Log
-Lilian's Blog
+# Henry's blog
+Henry's Blog
