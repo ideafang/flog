@@ -18,7 +18,7 @@ Colab最神奇的一点在于，他为你分配的虚拟机的磁盘和GPU并不
 
 Colab会根据全网目前GPU的使用情况进行分配，目前有Tesla T4和Tesla K80两种，我个人的情况是，上午一般都能分到T4，下午晚些时候到晚上都只能分到K80了，可能我这的晚上就是西半球那边白天，用的人比较多。
 
-[Colab官网地址](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjCwrrclY3xAhXLa94KHdHBAFYQFjAAegQIBhAD&url=https%3A%2F%2Fresearch.google.com%2Fcolaboratory%2F&usg=AOvVaw38J01zt_Dlb6pQ1fe6FGrI)
+[Colab官网地址](https://colab.research.google.com/)
 
 # 使用方法
 
