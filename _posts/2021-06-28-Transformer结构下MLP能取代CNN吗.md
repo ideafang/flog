@@ -48,7 +48,7 @@ tags: study-log
 - [Feed-forward-only Model](https://arxiv.org/pdf/2105.02723)[8]
 - [ResMLP](https://arxiv.org/pdf/2105.03404.pdf)[9]
 
-![image-20210702173048615](..\assets\images\image-20210702173048615.png)
+![image-20210702173048615](/assets/images/image-20210702173048615.png)
 
 ## 共同特点
 
